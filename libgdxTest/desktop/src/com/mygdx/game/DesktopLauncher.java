@@ -9,7 +9,7 @@ public class DesktopLauncher {
 		Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
 		config.setForegroundFPS(60);
 		config.setTitle("Tile Game");
-		config.setWindowedMode(800,600);
+		config.setWindowedMode(1500,1000);
 		config.useVsync(true);
 		config.setForegroundFPS(60);
 		config.setResizable(false);
